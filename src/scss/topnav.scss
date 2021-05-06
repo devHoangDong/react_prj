@@ -1,0 +1,16 @@
+.topNav {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5rem 1rem 0 1rem;
+    &__left {
+        &__title {
+            font-size: 1.5rem;
+            color: #000;
+            font-weight: bold;
+        }
+    }
+    &__right {
+
+    }
+    
+}
